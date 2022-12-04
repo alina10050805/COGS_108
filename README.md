@@ -23,13 +23,13 @@ This course reviews research investigating the neural bases for human mental pro
 |D5 |Inference |[Code](./D5/D5_inference.ipynb) |[Feedback](./D5/D5_inference.html.pdf)  |2/2    |
 |D6 |Casestudy Inference |[Code](./D6/D6_casestudy_inference.ipynb) |[Feedback](./D6/D6_casestudy_inference.html.pdf)  |2/2    |
 |D7 |Text |[Code](./D7/D7_text.ipynb) |--  |2/2    |
-|D8 |Ml |[Code](./D8/D8_ml.ipynb) |--  |--    |
+|D8 |Ml |[Code](./D8/D8_ml.ipynb) |[Feedback](./D8/D8_ml.html.pdf)  |2/2    |
 
 ## Assignments
 
 |       |Subject    |Code   |Feedback   |Score  |
 |:------|:----------|:------|:----------|:-------|
-|Practice |Practice |[Code](./Practice/Practice.ipynb) and [Source](https://github.com/alina10050805/MyFirstPullRequest) |--  |--    |
+|Practice |Practice |[Code](./Practice/Practice.ipynb) and [Source](https://github.com/alina10050805/MyFirstPullRequest) |[Feedback](./Practice/Practice.html.pdf)  |1/1    |
 |A1 |Git Python |[Code](./A1/A1_git_python.ipynb) |[Feedback](./A1/A1_git_python.html.pdf)  |7.75/8    |
 |A2 |Pandas |[Code](./A2/A2_pandas.ipynb) |[Feedback](./A2/A2_pandas.html.pdf)  |8/8    |
 |A3 |Data Analysis |[Code](./A3/A3_DataAnalysis.ipynb) |[Feedback](./A3/A3_DataAnalysis.html.pdf)  |8/8    |
