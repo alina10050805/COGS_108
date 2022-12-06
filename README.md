@@ -33,7 +33,7 @@ This course reviews research investigating the neural bases for human mental pro
 |A1 |Git Python |[Code](./A1/A1_git_python.ipynb) |[Feedback](./A1/A1_git_python.html.pdf)  |7.75/8    |
 |A2 |Pandas |[Code](./A2/A2_pandas.ipynb) |[Feedback](./A2/A2_pandas.html.pdf)  |8/8    |
 |A3 |Data Analysis |[Code](./A3/A3_DataAnalysis.ipynb) |[Feedback](./A3/A3_DataAnalysis.html.pdf)  |8/8    |
-|A4 |NLP |[Code](./A4/A4_NLP.ipynb) |--  |--    |
+|A4 |NLP |[Code](./A4/A4_NLP.ipynb) |[Feedback](./A4/A4_NLP.html.pdf)  |8/8    |
 
 ## Quizes
 |       |Quiz   |Score  |
