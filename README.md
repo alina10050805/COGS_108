@@ -12,6 +12,8 @@
 
 This course reviews research investigating the neural bases for human mental processes, including processing of affective, social, linguistic, and visuospatial information, as well as memory, attention, and executive functions. Also discussed are brain development and brain aging, and the nature of intelligence and creativity. Prerequisites: COGS 107B and its prerequisites.
 
+Course Link: [GitHub](https://github.com/COGS108/Lectures-Fa22)
+
 ## Labs
 
 |       |Subject    |Code   |Feedback   |Score  |
@@ -64,4 +66,4 @@ This includes:
 
 Link to [Group GitHub](https://github.com/COGS108/Group_070-Fa22)
 
-Link to [Fork to my GitHub]
+Link to [Fork to my GitHub](https://github.com/alina10050805/analyze-dog-in-shelters-characteristics)
